@@ -1,0 +1,13 @@
+arrayUtilTest.o
+spike
+a.exe
+arrayUtilTestRunner.c
+arrayUtilTestRunner.exe
+expr_assert.h
+sampleTest.c
+sampleTest.o
+sampleTestRunner.c
+sampleTestRunner.exe*.exe
+*.o
+*TestRunner.c
+*.core
